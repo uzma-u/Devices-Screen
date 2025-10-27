@@ -1,6 +1,6 @@
-# Devices Screen
+# Smart Devices Backend API
 
-A MERN stack frontend for the Devices-Screen mobile application.
+A MERN stack backend for the Smart Devices mobile application.
 
 ## Features
 
@@ -51,6 +51,5 @@ npm run dev
 ## Frontend
 
 The frontend React app is located in the `frontend` directory. Navigate there and run `npm install` and `npm start` to start the development server.
-
 
 
